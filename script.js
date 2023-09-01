@@ -15,3 +15,7 @@
     document.getElementById('inputText').value = '';
     document.getElementById('outputText').value = '';
   }
+  function callPage() {
+    // Redirecionar para a página desejada
+    window.location.href = "pagina-alvo.html";
+}
