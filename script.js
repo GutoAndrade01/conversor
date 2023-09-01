@@ -17,5 +17,5 @@
   }
   function callPage() {
     // Redirecionar para a página desejada
-    window.location.href = "pagina-alvo.html";
+    window.location.href = "https://gutoandrade01.github.io/GeneratorGT/GeneratorSidebarGT.html";
 }
